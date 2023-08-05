@@ -80,6 +80,10 @@ mocha is install if jest creates any error in installtion due to bugs in jest.
 
 4.) node index.js
 
+
+![image](https://github.com/SanjeethTharmarajah/svggenerator/assets/130941252/a36036ce-2acc-4267-863a-b7afff1094d8)
+
+
 A video of test can be seen below
 
 
